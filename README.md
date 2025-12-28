@@ -9,6 +9,7 @@ Web RPA - 网页机器人流程自动化工具
   <img src="https://img.shields.io/badge/协议-CC%20BY--NC--SA%204.0-green.svg" alt="协议">
   <img src="https://img.shields.io/badge/作者-青云制作__彭明航-orange.svg" alt="作者">
 </p>
+
 **一款功能强大的可视化网页自动化工具，通过拖拽模块的方式快速构建自动化工作流，无需编写代码即可实现网页数据采集、表单填写、自动化测试等任务。（仓库中的源码不会再进行更新了，请直接在Releases中下载最新7z压缩包以获取最新源码）**
 
 
@@ -430,3 +431,4 @@ WebRPA/
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img src="png/支付宝收款码.jpg" width="183" alt="支付宝收款码"/>
 </div>
+
